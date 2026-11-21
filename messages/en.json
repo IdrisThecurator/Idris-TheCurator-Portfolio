@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Idris TheCurator Studio | Product Designer",
+    "description": "Product designer building scalable digital solutions for brands, products and platforms."
+  },
+  "brand": "Idris TheCurator Studio",
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "playground": "Playground",
+    "contact": "Contact"
+  },
+  "status": "Currently exploring how to improve trust and usability in digital payment systems across emerging markets",
+  "hero": {
+    "badge": "I am Idris The Curator",
+    "line1": "A ~ Product Designer",
+    "line2": "B<icon>u</icon>ilding Scalable Digital Solutions",
+    "intro": "I design user-centered products that simplify both simple and complex systems that scale real business growth. With 4+ years of designing digital solutions, I've worked on brands, products and platforms like <tula>TulaPay</tula>, <kasoowa>Kasoowa</kasoowa>, <ease>Ease</ease>, <ulodge>ULodge</ulodge> and many more amazing explorations.",
+    "placeholder": "Send me a message",
+    "send": "Send"
+  },
+  "customizer": {
+    "title": "Make The Site Yours",
+    "color": "Page Color",
+    "language": "Language",
+    "mode": "Screen Mode",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark",
+    "custom": "Custom color"
+  },
+  "about": {
+    "title": "Prada Me",
+    "certifications": "Certifications",
+    "experience": "Years of Experience",
+    "tools": "Design Tools",
+    "brands": "Brands Worldwide",
+    "projects": "Project Completed"
+  },
+  "docs": {
+    "title": "Documentations",
+    "resume": "Resume/CV",
+    "cases": "Case Studies",
+    "catalogues": "Project Catalogues",
+    "gallery": "Gallery"
+  },
+  "dock": {
+    "home": "Home",
+    "about": "About",
+    "certifications": "Certifications",
+    "roles": "Roles",
+    "services": "Services",
+    "projects": "Projects",
+    "partners": "Partners",
+    "testimonials": "Testimonials",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "story": "Story",
+    "successStory": "Success Story"
+  },
+  "story": {
+    "text": "I bridge the gap between <orange>business</orange> {handshake} <orange>objectives and user needs</orange> by designing digital products that solve <green>real-world problems with clarity and purpose {targets}.</green> Leveraging expertise in <dark>product design, data-informed decision-making, and systems thinking, I help brands build products people</dark> {avatars} <dark>love and trust.</dark>"
+  },
+  "aboutSection": {
+    "title": "Quick Info Ab{pill}ut The Brain{br}Behind The Wor{worker}ks.",
+    "tag": "ABOUT–01",
+    "intro": "More than pixels and prototypes, meet the designer, strategist, and problem-solver dedicated to creating meaningful digital experiences that drive impact for users and businesses growth.",
+    "download": "Download Resume",
+    "cards": {
+      "education": {
+        "label": "Education",
+        "value": "Olabisi Onabanjo University",
+        "detail": "Bsc. Comp, Sci • 2018"
+      },
+      "nationality": {
+        "label": "Nationality",
+        "value": "Nigeria",
+        "detail": "Lagos"
+      },
+      "language": {
+        "label": "Language",
+        "value": "English",
+        "detail": "Fluent"
+      },
+      "tool": {
+        "label": "Top Creating Tool",
+        "value": "Figma",
+        "detail": "Expert"
+      },
+      "hobby": {
+        "label": "Hobby",
+        "value": "Video Games",
+        "detail": "Professional"
+      }
+    }
+  }
+}

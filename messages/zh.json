@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Idris TheCurator Studio | 产品设计师",
+    "description": "产品设计师，为品牌、产品和平台打造可扩展的数字解决方案。"
+  },
+  "brand": "Idris TheCurator Studio",
+  "nav": {
+    "home": "首页",
+    "projects": "项目",
+    "playground": "实验室",
+    "contact": "联系"
+  },
+  "status": "目前正在探索如何提升新兴市场数字支付系统的信任度与易用性",
+  "hero": {
+    "badge": "我是 Idris The Curator",
+    "line1": "一位产品设计师",
+    "line2": "打造可扩展的<icon>数</icon>字解决方案",
+    "intro": "我设计以用户为中心的产品，让简单与复杂的系统都变得清晰易用，并推动真实的业务增长。凭借 4 年以上的数字产品设计经验，我曾参与 <tula>TulaPay</tula>, <kasoowa>Kasoowa</kasoowa>, <ease>Ease</ease>, <ulodge>ULodge</ulodge> 等品牌、产品与平台的工作，以及许多其他精彩的探索。",
+    "placeholder": "给我留言",
+    "send": "发送"
+  },
+  "customizer": {
+    "title": "让网站更符合你的喜好",
+    "color": "页面颜色",
+    "language": "语言",
+    "mode": "显示模式",
+    "system": "跟随系统",
+    "light": "浅色",
+    "dark": "深色",
+    "custom": "自定义颜色"
+  },
+  "about": {
+    "title": "Prada Me",
+    "certifications": "认证",
+    "experience": "从业年限",
+    "tools": "设计工具",
+    "brands": "合作品牌",
+    "projects": "完成项目"
+  },
+  "docs": {
+    "title": "文档",
+    "resume": "简历",
+    "cases": "案例研究",
+    "catalogues": "项目目录",
+    "gallery": "图库"
+  },
+  "dock": {
+    "home": "首页",
+    "about": "关于",
+    "certifications": "认证",
+    "roles": "经历",
+    "services": "服务",
+    "projects": "项目",
+    "partners": "合作伙伴",
+    "testimonials": "评价",
+    "pricing": "价格",
+    "faq": "常见问题",
+    "story": "故事",
+    "successStory": "成功案例"
+  },
+  "story": {
+    "text": "我连接<orange>商业</orange>{handshake}<orange>目标与用户需求</orange>，设计能以清晰与初心解决<green>真实问题的数字产品{targets}。</green>凭借<dark>产品设计、数据驱动决策与系统思维方面的专长，我帮助品牌打造深受用户</dark>{avatars}<dark>喜爱与信赖的产品。</dark>"
+  },
+  "aboutSection": {
+    "title": "快速了解{pill}作品背后的大脑{br}以及创作者{worker}。",
+    "tag": "ABOUT–01",
+    "intro": "不止于像素与原型，认识这位专注于打造有意义的数字体验、为用户与企业增长创造影响力的设计师、策略师和问题解决者。",
+    "download": "下载简历",
+    "cards": {
+      "education": {
+        "label": "教育背景",
+        "value": "Olabisi Onabanjo University",
+        "detail": "计算机科学学士 • 2018"
+      },
+      "nationality": {
+        "label": "国籍",
+        "value": "尼日利亚",
+        "detail": "拉各斯"
+      },
+      "language": {
+        "label": "语言",
+        "value": "英语",
+        "detail": "流利"
+      },
+      "tool": {
+        "label": "主要设计工具",
+        "value": "Figma",
+        "detail": "专家"
+      },
+      "hobby": {
+        "label": "爱好",
+        "value": "电子游戏",
+        "detail": "专业级"
+      }
+    }
+  }
+}

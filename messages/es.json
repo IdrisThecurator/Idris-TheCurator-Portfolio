@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Idris TheCurator Studio | Diseñador de producto",
+    "description": "Diseñador de producto que crea soluciones digitales escalables para marcas, productos y plataformas."
+  },
+  "brand": "Idris TheCurator Studio",
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "playground": "Laboratorio",
+    "contact": "Contacto"
+  },
+  "status": "Actualmente exploro cómo mejorar la confianza y la usabilidad de los sistemas de pago digitales en mercados emergentes",
+  "hero": {
+    "badge": "Soy Idris The Curator",
+    "line1": "Un ~ Diseñador de Producto",
+    "line2": "Creando Sol<icon>u</icon>ciones Digitales Escalables",
+    "intro": "Diseño productos centrados en el usuario que simplifican sistemas, tanto sencillos como complejos, e impulsan un crecimiento empresarial real. Con más de 4 años diseñando soluciones digitales, he trabajado en marcas, productos y plataformas como <tula>TulaPay</tula>, <kasoowa>Kasoowa</kasoowa>, <ease>Ease</ease>, <ulodge>ULodge</ulodge>, y en muchas otras exploraciones increíbles.",
+    "placeholder": "Envíame un mensaje",
+    "send": "Enviar"
+  },
+  "customizer": {
+    "title": "Haz el sitio tuyo",
+    "color": "Color de la página",
+    "language": "Idioma",
+    "mode": "Modo de pantalla",
+    "system": "Sistema",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "custom": "Color personalizado"
+  },
+  "about": {
+    "title": "Prada Me",
+    "certifications": "Certificaciones",
+    "experience": "Años de experiencia",
+    "tools": "Herramientas de diseño",
+    "brands": "Marcas en el mundo",
+    "projects": "Proyectos completados"
+  },
+  "docs": {
+    "title": "Documentación",
+    "resume": "CV",
+    "cases": "Casos de estudio",
+    "catalogues": "Catálogos de proyectos",
+    "gallery": "Galería"
+  },
+  "dock": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "certifications": "Certificaciones",
+    "roles": "Roles",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "partners": "Aliados",
+    "testimonials": "Testimonios",
+    "pricing": "Precios",
+    "faq": "Preguntas",
+    "story": "Historia",
+    "successStory": "Caso de éxito"
+  },
+  "story": {
+    "text": "Conecto <orange>los objetivos del negocio</orange> {handshake} <orange>con las necesidades de los usuarios</orange> diseñando productos digitales que resuelven <green>problemas reales con claridad y propósito {targets}.</green> Con experiencia en <dark>diseño de producto, decisiones basadas en datos y pensamiento sistémico, ayudo a las marcas a crear productos que la gente</dark> {avatars} <dark>ama y en los que confía.</dark>"
+  },
+  "aboutSection": {
+    "title": "Datos Rápidos Sobre El Cer{pill}bro{br}Detrás De Las Ob{worker}ras.",
+    "tag": "ABOUT–01",
+    "intro": "Más que píxeles y prototipos: conoce al diseñador, estratega y solucionador de problemas dedicado a crear experiencias digitales con impacto para los usuarios y el crecimiento de los negocios.",
+    "download": "Descargar CV",
+    "cards": {
+      "education": {
+        "label": "Educación",
+        "value": "Olabisi Onabanjo University",
+        "detail": "Lic. en Ciencias de la Computación • 2018"
+      },
+      "nationality": {
+        "label": "Nacionalidad",
+        "value": "Nigeria",
+        "detail": "Lagos"
+      },
+      "language": {
+        "label": "Idioma",
+        "value": "Inglés",
+        "detail": "Fluido"
+      },
+      "tool": {
+        "label": "Herramienta principal",
+        "value": "Figma",
+        "detail": "Experto"
+      },
+      "hobby": {
+        "label": "Pasatiempo",
+        "value": "Videojuegos",
+        "detail": "Profesional"
+      }
+    }
+  }
+}
