@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Idris TheCurator Studio | Onímọ̀ Ìṣẹ̀dá Ọjà",
+    "description": "Onímọ̀ ìṣẹ̀dá ọjà tó ń kọ́ àwọn ojútùú oní-nọ́ńbà tó lè fẹ̀ sí i fún àwọn ilé-iṣẹ́, ọjà àti pẹpẹ."
+  },
+  "brand": "Idris TheCurator Studio",
+  "nav": {
+    "home": "Ilé",
+    "projects": "Àwọn Iṣẹ́ Akànṣe",
+    "playground": "Ìdánwò",
+    "contact": "Kàn Sí Mi"
+  },
+  "status": "Mo ń ṣàwárí bí a ṣe lè mú ìgbẹ́kẹ̀lé àti ìrọ̀rùn lílò pọ̀ sí i nínú àwọn ètò ìsanwó oní-nọ́ńbà káàkiri àwọn ọjà tó ń yọjú",
+  "hero": {
+    "badge": "Èmi ni Idris The Curator",
+    "line1": "Onímọ̀ Ìṣẹ̀dá Ọjà",
+    "line2": "Tó ń Kọ́ Àwọn Oj<icon>ú</icon>tùú Oní-nọ́ńbà Tó Lè Fẹ̀ Sí I",
+    "intro": "Mo ń ṣẹ̀dá àwọn ọjà tí a kọ́ yí olùlò ká, tó ń mú àwọn ètò rọrùn, ì báà jẹ́ kékeré tàbí ńlá, tó sì ń mú ìdàgbàsókè iṣẹ́ òwò gidi wá. Pẹ̀lú ọdún mẹ́rin ju bẹ́ẹ̀ lọ nínú ṣíṣẹ̀dá àwọn ojútùú oní-nọ́ńbà, mo ti ṣiṣẹ́ lórí àwọn ilé-iṣẹ́, ọjà àti pẹpẹ bíi <tula>TulaPay</tula>, <kasoowa>Kasoowa</kasoowa>, <ease>Ease</ease>, <ulodge>ULodge</ulodge> àti ọ̀pọ̀lọpọ̀ àwọn ìṣàwárí tó dára míràn.",
+    "placeholder": "Fi ìbánisọ̀rọ̀ ránṣẹ́ sí mi",
+    "send": "Fi Ránṣẹ́"
+  },
+  "customizer": {
+    "title": "Ṣe Ojú-òpó Yìí Bí O Ṣe Fẹ́",
+    "color": "Àwọ̀ Ojú-ewé",
+    "language": "Èdè",
+    "mode": "Ìrísí Ojú-ìwé",
+    "system": "Ti Ẹ̀rọ",
+    "light": "Ìmọ́lẹ̀",
+    "dark": "Òkùnkùn",
+    "custom": "Àwọ̀ tìrẹ"
+  },
+  "about": {
+    "title": "Prada Me",
+    "certifications": "Àwọn Ìwé-ẹ̀rí",
+    "experience": "Ọdún Ìrírí",
+    "tools": "Àwọn Irinṣẹ́ Ìṣẹ̀dá",
+    "brands": "Àwọn Ilé-iṣẹ́ Káàkiri Àgbáyé",
+    "projects": "Àwọn Iṣẹ́ Tí A Parí"
+  },
+  "docs": {
+    "title": "Àwọn Ìwé-àkọsílẹ̀",
+    "resume": "Résumé/CV",
+    "cases": "Àwọn Ìwádìí Ọ̀rọ̀",
+    "catalogues": "Àtòjọ Àwọn Iṣẹ́ Akànṣe",
+    "gallery": "Àwòrán"
+  },
+  "dock": {
+    "home": "Ilé",
+    "about": "Nípa Mi",
+    "certifications": "Àwọn Ìwé-ẹ̀rí",
+    "roles": "Àwọn Ipò",
+    "services": "Àwọn Iṣẹ́",
+    "projects": "Àwọn Iṣẹ́ Akànṣe",
+    "partners": "Àwọn Alájọṣepọ̀",
+    "testimonials": "Ẹ̀rí Àwọn Oníbàárà",
+    "pricing": "Owó",
+    "faq": "Àwọn Ìbéèrè",
+    "story": "Ìtàn",
+    "successStory": "Ìtàn Àṣeyọrí"
+  },
+  "story": {
+    "text": "Mo ń so àlàfo láàrin <orange>àwọn ibi-afẹ́de iṣẹ́ òwò</orange> {handshake} <orange>àti àwọn ohun tí olùlò nílò</orange> nípa ṣíṣẹ̀dá àwọn ọjà oní-nọ́ńbà tó ń yanjú <green>àwọn ìṣòro gidi pẹ̀lú ìmọ́lẹ̀ àti ète {targets}.</green> Pẹ̀lú ìmọ̀ nínú <dark>ṣíṣẹ̀dá ọjà, ìpinnu tí a gbé lé dátà, àti ìrònú ètò, mo ń ran àwọn ilé-iṣẹ́ lọ́wọ́ láti kọ́ àwọn ọjà tí àwọn ènìyàn</dark> {avatars} <dark>fẹ́ràn tí wọ́n sì gbẹ́kẹ̀lé.</dark>"
+  },
+  "aboutSection": {
+    "title": "Ìwífún Kíákíá Nípa {pill} Ọpọlọ{br}Tó Wà Lẹ́yìn Iṣẹ́ Náà {worker}.",
+    "tag": "ABOUT–01",
+    "intro": "Ju àwọn pixel àti àwòkọ́ṣe lọ, pàdé olùṣẹ̀dá, onímọ̀ ọgbọ́n àti olùyanjú ìṣòro tó ń ṣẹ̀dá àwọn ìrírí oní-nọ́ńbà tó ní ìtumọ̀ fún àwọn olùlò àti ìdàgbàsókè iṣẹ́ òwò.",
+    "download": "Ṣe ìgbàsílẹ̀ CV",
+    "cards": {
+      "education": {
+        "label": "Ẹ̀kọ́",
+        "value": "Olabisi Onabanjo University",
+        "detail": "Bsc. Comp, Sci • 2018"
+      },
+      "nationality": {
+        "label": "Orílẹ̀-èdè",
+        "value": "Nàìjíríà",
+        "detail": "Èkó"
+      },
+      "language": {
+        "label": "Èdè",
+        "value": "Gẹ̀ẹ́sì",
+        "detail": "Gbọ́ dáadáa"
+      },
+      "tool": {
+        "label": "Irinṣẹ́ Ìṣẹ̀dá Pàtàkì",
+        "value": "Figma",
+        "detail": "Ògá"
+      },
+      "hobby": {
+        "label": "Ohun Ìfẹ́",
+        "value": "Eré Fídíò",
+        "detail": "Ògbóǹtarìgì"
+      }
+    }
+  },
+  "certifications": {
+    "tag": "ÀWỌN ÌWÉ-Ẹ̀RÍ–02",
+    "title": "Àwọn Ìwé-ẹ̀rí Mi.",
+    "intro": "Ẹ̀rí ìfaradà mi sí ẹ̀kọ́ títí ayé àti ìdàgbàsókè iṣẹ́, tó ń fi ìmọ̀, ọgbọ́n àti òye pàtàkì tó mú ọ̀nà mi sí ṣíṣẹ̀dá ọjà, ìpinnu tí a gbé lé dátà àti àwọn ọ̀nà ẹ̀rọ tuntun lágbára hàn."
+  }
+}
