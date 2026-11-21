@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+/* Tokens taken from the Figma file (grey/base, black/base, grey/color-2, black/color-3/4).
+   Dark values are our own: dots and surfaces are tuned to sit on the dark page
+   the same way the light dots sit on white. */
+:root {
+  --accent: #5b727f;
+  --bg: #ffffff;
+  --ink: #151515;
+  --muted: #5b727f;      /* grey/base: titles, labels */
+  --body: #636363;       /* black/color-4: paragraph */
+  --faint: #8a8a8a;      /* black/color-3: placeholder */
+  --line: #c8d0d4;       /* grey/color-2: borders, dividers */
+  --card: #ffffff;
+  --dot: #e4e9ec;
+  --shadow-rgb: 91 114 127;
+}
+
+[data-mode="dark"] {
+  --bg: #0d1012;
+  --ink: #f2f5f6;
+  --muted: #9fb2bd;
+  --body: #a9b4ba;
+  --faint: #6d7a82;
+  --line: #2a343a;
+  --card: #151a1d;
+  --dot: #1f282d;
+  --shadow-rgb: 0 0 0;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-body: var(--body);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-card: var(--card);
+  --color-accent: var(--accent);
+  --font-sans: var(--font-bricolage), ui-sans-serif, system-ui, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+html {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+body {
+  position: relative;
+  isolation: isolate;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Background dots: 4px dots, 20px apart across, 24px apart down, starting 20px
+   in from the top-left, exactly as in the "Bacground" frame. Covers the full page. */
+body::before {
+  content: "";
+  position: absolute;
+  inset: 20px 0 20px 20px;
+  z-index: -1;
+  pointer-events: none;
+  background-image: radial-gradient(circle 2px at 2px 2px, var(--dot) 1.5px, transparent 2px);
+  background-size: 20px 24px;
+  background-repeat: repeat;
+}
+
+/* Shadows from the Figma "Glass dropdown" style */
+.shadow-panel {
+  box-shadow: 0 4px 2px rgb(var(--shadow-rgb) / 0.1), 4px 0 2px rgb(var(--shadow-rgb) / 0.1);
+}
+.shadow-field {
+  box-shadow: 0 4px 4px rgb(var(--shadow-rgb) / 0.1), 4px 0 4px rgb(var(--shadow-rgb) / 0.1);
+}
+
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-smooth { scroll-behavior: auto !important; }
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Headline lines stay on one line (FitText shrinks them to fit); wrapping is only
+   allowed as a last resort on very narrow screens. */
+.fit-nowrap > * { white-space: nowrap; }
+.fit-nowrap[data-wrap="true"] > * { white-space: normal; }
+
+/* Circular text icon beside "Currently exploring". Off for reduced-motion users. */
+.spin-slow { animation: spin-slow 24s linear infinite; }
+@keyframes spin-slow { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .spin-slow { animation: none !important; } }
