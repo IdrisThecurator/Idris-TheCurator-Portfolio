@@ -44,7 +44,7 @@ export default function Projects() {
           <img src="/projects/art-1.png" alt="" className="absolute left-0 top-0 size-20 rounded-full object-cover" />
           <img src="/projects/art-2.png" alt="" className="absolute left-[92px] top-[129px] size-20 rounded-full object-cover" />
           <img src="/projects/art-3.png" alt="" className="absolute right-0 top-0 size-20 rounded-full object-cover" />
-          <img src="/projects/stamp.svg" alt="" className="absolute right-[97.82px] top-[114.81px] size-[98.37px]" />
+          <img src="/projects/stamp.png" alt="" className="absolute right-[97.82px] top-[114.81px] size-[98.37px]" />
           {/* eslint-enable @next/next/no-img-element */}
         </div>
 
