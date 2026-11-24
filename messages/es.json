@@ -59,10 +59,10 @@
     "successStory": "Caso de éxito"
   },
   "story": {
-    "text": "Conecto <orange>los objetivos del negocio</orange> {handshake} <orange>con las necesidades de los usuarios</orange> diseñando productos digitales que resuelven <green>problemas reales con claridad y propósito {targets}.</green> Con experiencia en <dark>diseño de producto, decisiones basadas en datos y pensamiento sistémico, ayudo a las marcas a crear productos que la gente</dark> {avatars} <dark>ama y en los que confía.</dark>"
+    "text": "Conecto <orange>los objetivos del negocio</orange> <handshake></handshake> <orange>con las necesidades de los usuarios</orange> diseñando productos digitales que resuelven <green>problemas reales con claridad y propósito <targets></targets>.</green> Con experiencia en <dark>diseño de producto, decisiones basadas en datos y pensamiento sistémico, ayudo a las marcas a crear productos que la gente</dark> <avatars></avatars> <dark>ama y en los que confía.</dark>"
   },
   "aboutSection": {
-    "title": "Datos Rápidos Sobre El Cer{pill}bro{br}Detrás De Las Ob{worker}ras.",
+    "title": "Datos Rápidos Sobre El Cer<pill></pill>bro<br></br>Detrás De Las Ob<worker></worker>ras.",
     "tag": "ABOUT–01",
     "intro": "Más que píxeles y prototipos: conoce al diseñador, estratega y solucionador de problemas dedicado a crear experiencias digitales con impacto para los usuarios y el crecimiento de los negocios.",
     "download": "Descargar CV",
@@ -98,5 +98,53 @@
     "tag": "CERTIFICACIONES–02",
     "title": "Mis certificaciones.",
     "intro": "Un testimonio de mi dedicación al aprendizaje continuo y al crecimiento profesional, que muestra los conocimientos, las habilidades y la experiencia especializada que fortalecen mi enfoque del diseño de producto, la toma de decisiones basada en datos y las tecnologías emergentes."
+  },
+  "roles": {
+    "tag": "ROLES–03",
+    "title": "Mi Experi<icon></icon>ncia y Roles.",
+    "intro": "Un recorrido diseñando productos digitales de impacto, colaborando con equipos multidisciplinarios y resolviendo desafíos de negocio simples y complejos mediante el pensamiento estratégico de producto y el diseño centrado en el usuario.",
+    "statement": "<grey>Desde transformar ideas en productos escalables, cada rol ha</grey> <dark>contribuido a mi experiencia para resolver problemas y aportar valor que marca la diferencia.</dark>",
+    "skills": "Habilidades",
+    "description": "Descripción",
+    "book": "Reservar una sesión"
+  },
+  "services": {
+    "tag": "SERVICIOS–04",
+    "title": "Lo Que Puedo Hacer.",
+    "intro": "Una gama de servicios de diseño estratégico pensados para ayudar a startups, empresas y organizaciones a crear experiencias digitales intuitivas, funcionales y visualmente atractivas, alineadas con las necesidades de los usuarios y los objetivos del negocio.",
+    "items": [
+      {
+        "name": "Diseño de marca",
+        "description": "Identidades visuales que hacen a un negocio fácilmente reconocible: logotipos, color, tipografía y guías que se mantienen coherentes en cada lugar donde aparece la marca."
+      },
+      {
+        "name": "Diseño de producto",
+        "description": "Diseño integral de productos digitales, desde la investigación y los flujos de usuario hasta wireframes, prototipos e interfaces pulidas que resultan sencillas de usar."
+      },
+      {
+        "name": "Diseño de software",
+        "description": "Interfaces y sistemas para paneles, plataformas y herramientas internas, con una arquitectura de información clara que hace manejable el software complejo."
+      },
+      {
+        "name": "Desarrollo",
+        "description": "Convertir los diseños aprobados en sitios y aplicaciones web responsivos y accesibles, fieles al diseño y listos para lanzar."
+      },
+      {
+        "name": "Analítica de datos",
+        "description": "Convertir datos en bruto en información clara: análisis, paneles e informes que guían las decisiones de producto y de negocio."
+      },
+      {
+        "name": "Marketing",
+        "description": "Páginas de aterrizaje, contenido y piezas visuales de campaña que explican lo que hace un producto y le ayudan a llegar a la audiencia adecuada."
+      }
+    ]
+  },
+  "projects": {
+    "tag": "PROYECTOS–05",
+    "title": "Catálogo de Mis Increíbles Tra<worker></worker>bajos<br></br>Diseñados para Resolver Probl<pen></pen>mas.",
+    "intro": "Explora una selección de proyectos donde la estrategia, la creatividad y el diseño centrado en el usuario se unieron para resolver desafíos reales, mejorar experiencias y generar resultados significativos para usuarios y negocios.",
+    "book": "Reservar una sesión",
+    "catalogue": "Ver mi catálogo de trabajos",
+    "statement": "<amber>Trabajar</amber><grey> en distintos sectores puede influir mucho en la </grey><green>grandeza</green><dark> que se logra tras años de contribución innovadora a la industria.</dark>"
   }
 }

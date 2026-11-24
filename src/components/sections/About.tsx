@@ -31,15 +31,15 @@ export default function About() {
   const up = () => (drag.current = null);
 
   const title = Children.toArray(t.rich("title", {
-    br: <br key="br" />,
-    pill: (
+    br: () => <br />,
+    pill: () => (
       <span key="pill" className="relative mx-[0.04em] inline-block h-[1.15em] w-[2.7em] align-[-0.2em]">
         <span aria-hidden className={`absolute inset-0 rounded-full bg-card ${PILL_SHADOW}`} />
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img src="/about/portrait.png" alt="" aria-hidden className="absolute bottom-0 left-1/2 h-[1.77em] w-[2.5em] -translate-x-1/2 rounded-[24px] object-cover" />
       </span>
     ),
-    worker: (
+    worker: () => (
       // eslint-disable-next-line @next/next/no-img-element
       <img key="worker" src="/about/worker.svg" alt="" aria-hidden className="mx-[0.1em] inline-block size-[0.92em] align-[-0.12em]" />
     ),

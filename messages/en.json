@@ -59,10 +59,10 @@
     "successStory": "Success Story"
   },
   "story": {
-    "text": "I bridge the gap between <orange>business</orange> {handshake} <orange>objectives and user needs</orange> by designing digital products that solve <green>real-world problems with clarity and purpose {targets}.</green> Leveraging expertise in <dark>product design, data-informed decision-making, and systems thinking, I help brands build products people</dark> {avatars} <dark>love and trust.</dark>"
+    "text": "I bridge the gap between <orange>business</orange> <handshake></handshake> <orange>objectives and user needs</orange> by designing digital products that solve <green>real-world problems with clarity and purpose <targets></targets>.</green> Leveraging expertise in <dark>product design, data-informed decision-making, and systems thinking, I help brands build products people</dark> <avatars></avatars> <dark>love and trust.</dark>"
   },
   "aboutSection": {
-    "title": "Quick Info Ab{pill}ut The Brain{br}Behind The Wor{worker}ks.",
+    "title": "Quick Info Ab<pill></pill>ut The Brain<br></br>Behind The Wor<worker></worker>ks.",
     "tag": "ABOUT–01",
     "intro": "More than pixels and prototypes, meet the designer, strategist, and problem-solver dedicated to creating meaningful digital experiences that drive impact for users and businesses growth.",
     "download": "Download Resume",
@@ -98,5 +98,53 @@
     "tag": "CERTIFICATION–02",
     "title": "My Certifications.",
     "intro": "A testament to my dedication to lifelong learning and professional growth, showcasing the knowledge, skills, and specialized expertise that strengthen my approach to product design, data-driven decision-making, and emerging technologies."
+  },
+  "roles": {
+    "tag": "ROLES–03",
+    "title": "My Experi<icon></icon>nce & Roles.",
+    "intro": "A journey of designing impactful digital products, collaborating with cross-functional teams, and solving simple and complex business challenges through strategic product thinking and user-centered design.",
+    "statement": "<grey>From transforming ideas into scalable products, each role has</grey> <dark>contributed to my expertise in solving problems and delivering values that make a difference.</dark>",
+    "skills": "Skills",
+    "description": "Description",
+    "book": "Book a Session"
+  },
+  "services": {
+    "tag": "SERVICES–04",
+    "title": "What I Can Do.",
+    "intro": "A range of Strategic design services tailored to help startups, businesses, and organizations create intuitive, functional, and visually compelling digital experiences that align with both user needs and business objectives.",
+    "items": [
+      {
+        "name": "Brand Design",
+        "description": "Visual identities that make a business instantly recognizable: logos, color, typography and guidelines that stay consistent everywhere the brand shows up."
+      },
+      {
+        "name": "Product Design",
+        "description": "End-to-end design of digital products, from research and user flows to wireframes, prototypes and polished interfaces that people find simple to use."
+      },
+      {
+        "name": "Software Design",
+        "description": "Interfaces and systems for dashboards, platforms and internal tools, with clear information architecture that makes complex software feel manageable."
+      },
+      {
+        "name": "Development",
+        "description": "Turning approved designs into responsive, accessible websites and web apps, built to match the design closely and ready to launch."
+      },
+      {
+        "name": "Data Analytics",
+        "description": "Turning raw data into clear insight: analysis, dashboards and reports that guide product and business decisions."
+      },
+      {
+        "name": "Marketing",
+        "description": "Landing pages, content and campaign visuals that explain what a product does and help it reach the right audience."
+      }
+    ]
+  },
+  "projects": {
+    "tag": "PROJECTS–05",
+    "title": "Catalogue of My Amazing Wor<worker></worker>ks<br></br>D<pen></pen>signed to Solve Problems.",
+    "intro": "Explore a curated collection of projects where strategy, creativity, and user-centered design came together to solve real-world challenges, improve experiences, and deliver meaningful outcomes for both users and businesses.",
+    "book": "Book a Session",
+    "catalogue": "View My Work Catalogue",
+    "statement": "<amber>Working</amber><grey> across different sectors can greatly impact the </grey><green>greatness</green><dark> one can easily achieve after years of innovative contribution to the industry.</dark>"
   }
 }

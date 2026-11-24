@@ -59,10 +59,10 @@
     "successStory": "Ìtàn Àṣeyọrí"
   },
   "story": {
-    "text": "Mo ń so àlàfo láàrin <orange>àwọn ibi-afẹ́de iṣẹ́ òwò</orange> {handshake} <orange>àti àwọn ohun tí olùlò nílò</orange> nípa ṣíṣẹ̀dá àwọn ọjà oní-nọ́ńbà tó ń yanjú <green>àwọn ìṣòro gidi pẹ̀lú ìmọ́lẹ̀ àti ète {targets}.</green> Pẹ̀lú ìmọ̀ nínú <dark>ṣíṣẹ̀dá ọjà, ìpinnu tí a gbé lé dátà, àti ìrònú ètò, mo ń ran àwọn ilé-iṣẹ́ lọ́wọ́ láti kọ́ àwọn ọjà tí àwọn ènìyàn</dark> {avatars} <dark>fẹ́ràn tí wọ́n sì gbẹ́kẹ̀lé.</dark>"
+    "text": "Mo ń so àlàfo láàrin <orange>àwọn ibi-afẹ́de iṣẹ́ òwò</orange> <handshake></handshake> <orange>àti àwọn ohun tí olùlò nílò</orange> nípa ṣíṣẹ̀dá àwọn ọjà oní-nọ́ńbà tó ń yanjú <green>àwọn ìṣòro gidi pẹ̀lú ìmọ́lẹ̀ àti ète <targets></targets>.</green> Pẹ̀lú ìmọ̀ nínú <dark>ṣíṣẹ̀dá ọjà, ìpinnu tí a gbé lé dátà, àti ìrònú ètò, mo ń ran àwọn ilé-iṣẹ́ lọ́wọ́ láti kọ́ àwọn ọjà tí àwọn ènìyàn</dark> <avatars></avatars> <dark>fẹ́ràn tí wọ́n sì gbẹ́kẹ̀lé.</dark>"
   },
   "aboutSection": {
-    "title": "Ìwífún Kíákíá Nípa {pill} Ọpọlọ{br}Tó Wà Lẹ́yìn Iṣẹ́ Náà {worker}.",
+    "title": "Ìwífún Kíákíá Nípa <pill></pill> Ọpọlọ<br></br>Tó Wà Lẹ́yìn Iṣẹ́ Náà <worker></worker>.",
     "tag": "ABOUT–01",
     "intro": "Ju àwọn pixel àti àwòkọ́ṣe lọ, pàdé olùṣẹ̀dá, onímọ̀ ọgbọ́n àti olùyanjú ìṣòro tó ń ṣẹ̀dá àwọn ìrírí oní-nọ́ńbà tó ní ìtumọ̀ fún àwọn olùlò àti ìdàgbàsókè iṣẹ́ òwò.",
     "download": "Ṣe ìgbàsílẹ̀ CV",
@@ -98,5 +98,53 @@
     "tag": "ÀWỌN ÌWÉ-Ẹ̀RÍ–02",
     "title": "Àwọn Ìwé-ẹ̀rí Mi.",
     "intro": "Ẹ̀rí ìfaradà mi sí ẹ̀kọ́ títí ayé àti ìdàgbàsókè iṣẹ́, tó ń fi ìmọ̀, ọgbọ́n àti òye pàtàkì tó mú ọ̀nà mi sí ṣíṣẹ̀dá ọjà, ìpinnu tí a gbé lé dátà àti àwọn ọ̀nà ẹ̀rọ tuntun lágbára hàn."
+  },
+  "roles": {
+    "tag": "ÀWỌN IPÒ–03",
+    "title": "Ìrírí àti Àwọn Ipò Mi <icon></icon>.",
+    "intro": "Ìrìnàjò ṣíṣẹ̀dá àwọn ọjà oní-nọ́ńbà tó ní ipa, ní ìbáṣiṣẹ́pọ̀ pẹ̀lú àwọn ẹgbẹ́ oníṣẹ́ onírúurú, àti yíyanjú àwọn ìpèníjà iṣẹ́ òwò kéékèèké àti ńlá nípasẹ̀ ìrònú ọjà àti ìṣẹ̀dá tí a kọ́ yí olùlò ká.",
+    "statement": "<grey>Láti yí àwọn ọ̀rọ̀ ìmọ̀ padà sí àwọn ọjà tó lè fẹ̀ sí i, ipò kọ̀ọ̀kan ti</grey> <dark>ṣe àfikún sí ìmọ̀ mi nínú yíyanjú ìṣòro àti fífi iye tó ń mú ìyàtọ̀ wá jíṣẹ́.</dark>",
+    "skills": "Àwọn Ọgbọ́n",
+    "description": "Àpèjúwe",
+    "book": "Béèrè fún Ìpàdé"
+  },
+  "services": {
+    "tag": "ÀWỌN IṢẸ́–04",
+    "title": "Ohun Tí Mo Lè Ṣe.",
+    "intro": "Oríṣiríṣi iṣẹ́ ìṣẹ̀dá ọgbọ́n tó ń ran àwọn ilé-iṣẹ́ tuntun, àwọn òwò àti àwọn ẹgbẹ́ lọ́wọ́ láti ṣẹ̀dá àwọn ìrírí oní-nọ́ńbà tó rọrùn, tó wúlò tó sì lẹ́wà, tó bá àwọn ohun tí olùlò nílò àti ète iṣẹ́ òwò mu.",
+    "items": [
+      {
+        "name": "Ìṣẹ̀dá Àmì Ilé-iṣẹ́",
+        "description": "Àwọn àmì ìdánimọ̀ tó ń jẹ́ kí a mọ òwò kan lẹ́sẹ̀kẹsẹ̀: àmì, àwọ̀, ìkọ̀wé àti ìlànà tó dúró bákan náà níbikíbi tí ilé-iṣẹ́ náà bá hàn."
+      },
+      {
+        "name": "Ìṣẹ̀dá Ọjà",
+        "description": "Ìṣẹ̀dá àwọn ọjà oní-nọ́ńbà láti ìbẹ̀rẹ̀ dé òpin, láti ìwádìí àti ọ̀nà olùlò sí àwòkọ́ṣe àti àwọn ojú-ìwé tó rọrùn láti lò."
+      },
+      {
+        "name": "Ìṣẹ̀dá Sọ́fítíwia",
+        "description": "Àwọn ojú-ìwé àti ètò fún àwọn pẹpẹ àti irinṣẹ́ inú ilé, pẹ̀lú ìṣètò ìwífún tó mọ́ tó ń jẹ́ kí sọ́fítíwia tó díjú rọrùn."
+      },
+      {
+        "name": "Ìdàgbàsókè",
+        "description": "Yíyí àwọn àwòrán tí a fọwọ́ sí padà sí àwọn ojú-òpó wẹ́ẹ̀bù àti áàpù tó ń bá gbogbo ẹ̀rọ mu, tó sì tọ́ sí àwòrán náà."
+      },
+      {
+        "name": "Ìtúpalẹ̀ Dátà",
+        "description": "Yíyí dátà aláìmọ̀ padà sí òye tó yé kedere: ìtúpalẹ̀, àwọn pátákó àti ìròyìn tó ń darí ìpinnu ọjà àti iṣẹ́ òwò."
+      },
+      {
+        "name": "Ìpolówó",
+        "description": "Àwọn ojú-ìwé ìbalẹ̀, àkóónú àti àwòrán ìpolongo tó ń ṣàlàyé ohun tí ọjà kan ń ṣe tó sì ń ràn án lọ́wọ́ láti dé ọ̀dọ̀ àwọn ènìyàn tó tọ́."
+      }
+    ]
+  },
+  "projects": {
+    "tag": "ÀWỌN IṢẸ́ AKÀNṢE–05",
+    "title": "Àtòjọ Àwọn Iṣẹ́ Àgbàyanu Mi <worker></worker><br></br>Tí A Ṣẹ̀dá Láti Yanjú <pen></pen> Àwọn Ìṣòro.",
+    "intro": "Ṣàwárí àkójọpọ̀ àwọn iṣẹ́ akànṣe tí ọgbọ́n, àtinúdá àti ìṣẹ̀dá tí a kọ́ yí olùlò ká ti parapọ̀ láti yanjú àwọn ìpèníjà gidi, mú àwọn ìrírí dára síi, àti mú àwọn èsì tó nítumọ̀ wá fún àwọn olùlò àti àwọn òwò.",
+    "book": "Béèrè fún Ìpàdé",
+    "catalogue": "Wo Àtòjọ Iṣẹ́ Mi",
+    "statement": "<amber>Ṣíṣiṣẹ́</amber><grey> káàkiri àwọn ẹ̀ka iṣẹ́ oríṣiríṣi lè ní ipa ńlá lórí </grey><green>títóbi</green><dark> tí ènìyàn lè ṣàṣeyọrí lẹ́yìn ọdún púpọ̀ ti àfikún tuntun sí iṣẹ́.</dark>"
   }
 }

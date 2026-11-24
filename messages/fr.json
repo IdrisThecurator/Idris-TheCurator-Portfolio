@@ -59,10 +59,10 @@
     "successStory": "Réussite"
   },
   "story": {
-    "text": "Je comble le fossé entre les <orange>objectifs business</orange> {handshake} <orange>et les besoins des utilisateurs</orange> en concevant des produits numériques qui résolvent <green>de vrais problèmes avec clarté et intention {targets}.</green> Fort de mon expertise en <dark>conception produit, en décisions guidées par les données et en pensée systémique, j'aide les marques à créer des produits que les gens</dark> {avatars} <dark>aiment et en qui ils ont confiance.</dark>"
+    "text": "Je comble le fossé entre les <orange>objectifs business</orange> <handshake></handshake> <orange>et les besoins des utilisateurs</orange> en concevant des produits numériques qui résolvent <green>de vrais problèmes avec clarté et intention <targets></targets>.</green> Fort de mon expertise en <dark>conception produit, en décisions guidées par les données et en pensée systémique, j'aide les marques à créer des produits que les gens</dark> <avatars></avatars> <dark>aiment et en qui ils ont confiance.</dark>"
   },
   "aboutSection": {
-    "title": "L'essentiel Sur Le Cerv{pill}au{br}Derrière Le Tra{worker}vail.",
+    "title": "L'essentiel Sur Le Cerv<pill></pill>au<br></br>Derrière Le Tra<worker></worker>vail.",
     "tag": "ABOUT–01",
     "intro": "Plus que des pixels et des prototypes : découvrez le designer, stratège et résolveur de problèmes qui crée des expériences numériques porteuses d'impact pour les utilisateurs et la croissance des entreprises.",
     "download": "Télécharger le CV",
@@ -98,5 +98,53 @@
     "tag": "CERTIFICATIONS–02",
     "title": "Mes certifications.",
     "intro": "Le reflet de mon engagement envers l'apprentissage continu et la progression professionnelle, qui met en avant les connaissances, compétences et expertises spécialisées qui renforcent mon approche du product design, de la décision fondée sur les données et des technologies émergentes."
+  },
+  "roles": {
+    "tag": "RÔLES–03",
+    "title": "Mon Expéri<icon></icon>nce & Mes Rôles.",
+    "intro": "Un parcours de conception de produits numériques à fort impact, en collaboration avec des équipes pluridisciplinaires, pour résoudre des défis métier simples et complexes grâce à une réflexion produit stratégique et à un design centré sur l'utilisateur.",
+    "statement": "<grey>De la transformation d'idées en produits évolutifs, chaque rôle a</grey> <dark>enrichi mon expertise pour résoudre des problèmes et créer une valeur qui fait la différence.</dark>",
+    "skills": "Compétences",
+    "description": "Description",
+    "book": "Réserver une session"
+  },
+  "services": {
+    "tag": "SERVICES–04",
+    "title": "Ce Que Je Peux Faire.",
+    "intro": "Une gamme de services de design stratégique conçus pour aider les startups, entreprises et organisations à créer des expériences numériques intuitives, fonctionnelles et visuellement convaincantes, alignées sur les besoins des utilisateurs et les objectifs business.",
+    "items": [
+      {
+        "name": "Design de marque",
+        "description": "Des identités visuelles qui rendent une entreprise immédiatement reconnaissable : logos, couleurs, typographie et chartes qui restent cohérents partout où la marque apparaît."
+      },
+      {
+        "name": "Design produit",
+        "description": "La conception de bout en bout de produits numériques, de la recherche et des parcours utilisateurs aux wireframes, prototypes et interfaces soignées, simples à utiliser."
+      },
+      {
+        "name": "Design logiciel",
+        "description": "Des interfaces et des systèmes pour tableaux de bord, plateformes et outils internes, avec une architecture de l'information claire qui rend les logiciels complexes accessibles."
+      },
+      {
+        "name": "Développement",
+        "description": "Transformer les designs validés en sites et applications web responsives et accessibles, fidèles à la maquette et prêts à être lancés."
+      },
+      {
+        "name": "Analyse de données",
+        "description": "Transformer des données brutes en informations claires : analyses, tableaux de bord et rapports qui guident les décisions produit et business."
+      },
+      {
+        "name": "Marketing",
+        "description": "Des pages d'atterrissage, des contenus et des visuels de campagne qui expliquent ce que fait un produit et l'aident à toucher le bon public."
+      }
+    ]
+  },
+  "projects": {
+    "tag": "PROJETS–05",
+    "title": "Le Catalogue de Mes Incroyables Tra<worker></worker>vaux<br></br>Conçus pour Résoudre des Probl<pen></pen>mes.",
+    "intro": "Découvrez une sélection de projets où stratégie, créativité et design centré sur l'utilisateur se sont réunis pour relever de vrais défis, améliorer les expériences et apporter des résultats concrets aux utilisateurs comme aux entreprises.",
+    "book": "Réserver une session",
+    "catalogue": "Voir mon catalogue de travaux",
+    "statement": "<amber>Travailler</amber><grey> dans différents secteurs peut grandement influencer la </grey><green>grandeur</green><dark> que l'on atteint après des années de contribution innovante à l'industrie.</dark>"
   }
 }

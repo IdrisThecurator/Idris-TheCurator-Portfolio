@@ -50,16 +50,18 @@ export default function Certifications() {
           <p className="max-w-[576px] text-[16px] tracking-[-0.32px] text-body">{t("intro")}</p>
         </div>
 
-        {/* 600 x 300 window: the list scrolls up inside it and fades out at the top and bottom */}
-        <div className="relative h-[300px] w-full shrink-0 overflow-hidden bg-[color-mix(in_srgb,var(--ink)_4%,var(--bg))] [--surface:color-mix(in_srgb,var(--ink)_4%,var(--bg))] lg:w-[600px]">
+        {/* 600 x 300 window: no background. The list scrolls up and fades into the page, dots included. */}
+        <div
+          className="relative h-[300px] w-full shrink-0 overflow-hidden lg:w-[600px]"
+          style={{
+            maskImage: "linear-gradient(to bottom, transparent 0%, #000 28%, #000 72%, transparent 100%)",
+            WebkitMaskImage: "linear-gradient(to bottom, transparent 0%, #000 28%, #000 72%, transparent 100%)",
+          }}
+        >
           <div className="marquee-up px-[2px] pt-[2px]">
             <Group locale={locale} />
             <Group locale={locale} hidden />
           </div>
-          <div
-            aria-hidden
-            className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_bottom,var(--surface)_10%,transparent_50%,var(--surface)_90%)]"
-          />
         </div>
       </div>
     </section>

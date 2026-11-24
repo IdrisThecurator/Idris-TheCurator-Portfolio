@@ -13,25 +13,25 @@ export default function Story() {
     orange: (c) => <span className="font-medium text-[#ff921f]">{c}</span>,
     green: (c) => <span className="font-medium text-[#84d540]">{c}</span>,
     dark: (c) => <span className="text-ink">{c}</span>,
-    handshake: (
+    handshake: () => (
       // eslint-disable-next-line @next/next/no-img-element
       <img key="handshake" src="/story/handshake.svg" alt="" aria-hidden className="mx-[0.08em] inline-block size-[1.24em] align-[-0.3em]" />
     ),
-    targets: (
+    targets: () => (
       // eslint-disable-next-line @next/next/no-img-element
       <img key="targets" src="/story/targets.svg" alt="" aria-hidden className="mx-[0.05em] inline-block h-[0.95em] w-auto align-[-0.15em]" />
     ),
-    avatars: (
+    avatars: () => (
       // eslint-disable-next-line @next/next/no-img-element
       <img key="avatars" src="/story/avatars.png" alt="" aria-hidden className="mx-[0.08em] inline-block h-[1.14em] w-auto align-[-0.28em]" />
     ),
   }));
 
   const textClass =
-    "text-center text-[clamp(1.375rem,3.5vw,2.625rem)] font-normal leading-[1.238] tracking-[-0.02em] text-muted";
+    "text-center text-[clamp(1.125rem,2.667vw,2rem)] font-normal leading-[1.238] tracking-[-0.02em] text-muted";
 
   return (
-    <section id="story" className="relative mx-auto w-full max-w-[1200px] px-6 pb-[150px] pt-[100px] lg:px-0">
+    <section id="story" className="relative mx-auto w-full max-w-[1200px] px-6 pb-[220px] pt-[40px] lg:px-0">
       <div className="relative">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
