@@ -16,7 +16,7 @@ export default function Pricing() {
       ),
       people: () => (
         // eslint-disable-next-line @next/next/no-img-element
-        <img key="people" src="/story/avatars.png" alt="" aria-hidden className="mx-[0.06em] inline-block h-[0.8em] w-[1.95em] align-[-0.06em]" />
+        <img key="people" src="/pricing/people-pill.svg" alt="" aria-hidden className="mx-[0.06em] inline-block h-[0.8em] w-[1.95em] align-[-0.06em]" />
       ),
     }),
   );
