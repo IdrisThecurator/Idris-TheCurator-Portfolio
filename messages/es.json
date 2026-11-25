@@ -146,5 +146,39 @@
     "book": "Reservar una sesión",
     "catalogue": "Ver mi catálogo de trabajos",
     "statement": "<amber>Trabajar</amber><grey> en distintos sectores puede influir mucho en la </grey><green>grandeza</green><dark> que se logra tras años de contribución innovadora a la industria.</dark>"
+  },
+  "partners": {
+    "tag": "SOCIOS–06",
+    "title": "Marcas Con Las Que He Tra<worker></worker>bajado.",
+    "intro": "Una muestra de las marcas, startups y organizaciones que han confiado en mí para dar forma a sus productos, mejorar su presencia digital y crear experiencias que impulsan el compromiso, el crecimiento y el valor a largo plazo."
+  },
+  "successStory": {
+    "tag": "CASOS DE ÉXITO–07",
+    "title": "Mi Impacto y Métricas en Mis Tra<worker></worker>bajos.",
+    "intro": "Un gran diseño va más allá de la estética: crea valor medible. Estas métricas destacan el impacto de mi trabajo en las experiencias de producto, la interacción de los usuarios, los objetivos de negocio y el rendimiento general del producto.",
+    "columns": {
+      "project": "Proyecto",
+      "impacts": "Impactos",
+      "metrics": "Métricas",
+      "timeframe": "Duración"
+    },
+    "expand": "Expandir",
+    "collapse": "Contraer"
+  },
+  "testimonials": {
+    "tag": "TESTIMONIOS–08",
+    "title": "Lo Que Dicen de Mi Tra<worker></worker>bajo.",
+    "intro": "La verdadera medida de un gran trabajo está en la experiencia de quienes lo usan. Esto es lo que clientes, colegas y colaboradores dicen sobre trabajar conmigo y el impacto de las soluciones que hemos construido juntos.",
+    "prev": "Testimonio anterior",
+    "next": "Testimonio siguiente"
+  },
+  "pricing": {
+    "tag": "PRECIOS–09",
+    "title": "Mi Mejor Paquete <p>Pre<tag></tag>cios</p> Accesibles<br></br>Pensado Para To<people></people>dos.",
+    "intro": "Precios transparentes, flexibles y orientados al valor, pensados para que empresas y fundadores accedan a servicios de diseño de producto de alta calidad, acordes con sus objetivos y presupuesto.",
+    "description": "Descripción",
+    "view": "Haz clic para ver la descripción",
+    "book": "Reservar una sesión",
+    "open": "Mostrar detalles de"
   }
 }

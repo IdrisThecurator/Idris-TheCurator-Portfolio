@@ -146,5 +146,39 @@
     "book": "Réserver une session",
     "catalogue": "Voir mon catalogue de travaux",
     "statement": "<amber>Travailler</amber><grey> dans différents secteurs peut grandement influencer la </grey><green>grandeur</green><dark> que l'on atteint après des années de contribution innovante à l'industrie.</dark>"
+  },
+  "partners": {
+    "tag": "PARTENAIRES–06",
+    "title": "Marques Avec Lesquelles J’ai Tra<worker></worker>vaillé.",
+    "intro": "Une vitrine des marques, startups et organisations qui m’ont fait confiance pour façonner leurs produits, renforcer leur présence numérique et créer des expériences qui favorisent l’engagement, la croissance et la valeur à long terme."
+  },
+  "successStory": {
+    "tag": "RÉUSSITES–07",
+    "title": "Mon Impact et Mes Indicateurs au Tra<worker></worker>vail.",
+    "intro": "Un excellent design ne se limite pas à l’esthétique : il crée une valeur mesurable. Ces indicateurs mettent en lumière l’impact de mon travail sur les expériences produit, l’engagement des utilisateurs, les objectifs business et la performance globale des produits.",
+    "columns": {
+      "project": "Projet",
+      "impacts": "Impacts",
+      "metrics": "Indicateurs",
+      "timeframe": "Durée"
+    },
+    "expand": "Développer",
+    "collapse": "Réduire"
+  },
+  "testimonials": {
+    "tag": "TÉMOIGNAGES–08",
+    "title": "Ce Qu’ils Disent de Mon Tra<worker></worker>vail.",
+    "intro": "La vraie mesure d’un excellent travail réside dans l’expérience de ceux qui l’utilisent. Voici ce que clients, collègues et collaborateurs disent de leur travail avec moi et de l’impact des solutions que nous avons construites ensemble.",
+    "prev": "Témoignage précédent",
+    "next": "Témoignage suivant"
+  },
+  "pricing": {
+    "tag": "TARIFS–09",
+    "title": "Mes Meilleurs <p>Tar<tag></tag>ifs</p> Abordables<br></br>Pensés Pour To<people></people>us.",
+    "intro": "Une tarification transparente, flexible et axée sur la valeur, pensée pour aider entreprises et fondateurs à accéder à des services de design produit de haute qualité, en phase avec leurs objectifs et leur budget.",
+    "description": "Description",
+    "view": "Cliquez pour voir la description",
+    "book": "Réserver une session",
+    "open": "Afficher les détails de"
   }
 }

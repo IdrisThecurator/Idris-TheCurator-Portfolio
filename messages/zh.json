@@ -146,5 +146,39 @@
     "book": "预约会谈",
     "catalogue": "查看我的作品集",
     "statement": "<amber>跨行业工作</amber><grey>能深刻影响一个人经过多年创新贡献后所能达到的</grey><green>卓越</green><dark>高度。</dark>"
+  },
+  "partners": {
+    "tag": "合作伙伴–06",
+    "title": "我合作过的品牌<worker></worker>。",
+    "intro": "展示那些信任我的品牌、初创公司和组织，我帮助它们塑造产品、提升数字形象，并创造能带来互动、增长和长期价值的体验。"
+  },
+  "successStory": {
+    "tag": "成功案例–07",
+    "title": "我的影响力与成果指标<worker></worker>。",
+    "intro": "优秀的设计不止于美观，它能创造可衡量的价值。这些指标展示了我的工作在产品体验、用户参与、业务目标和整体产品表现上的影响。",
+    "columns": {
+      "project": "项目",
+      "impacts": "影响",
+      "metrics": "指标",
+      "timeframe": "周期"
+    },
+    "expand": "展开",
+    "collapse": "收起"
+  },
+  "testimonials": {
+    "tag": "客户评价–08",
+    "title": "他们如何评价我的作品<worker></worker>。",
+    "intro": "优秀作品的真正标准，在于使用者的体验。以下是客户、同事和合作伙伴对与我合作的评价，以及我们共同打造的解决方案所带来的影响。",
+    "prev": "上一条评价",
+    "next": "下一条评价"
+  },
+  "pricing": {
+    "tag": "价格–09",
+    "title": "我最实惠的<p>价格<tag></tag></p>套餐<br></br>为每个人<people></people>量身打造。",
+    "intro": "透明、灵活、注重价值的定价，帮助企业和创始人以契合目标与预算的方式获得高质量的产品设计服务。",
+    "description": "说明",
+    "view": "点击查看说明",
+    "book": "预约会谈",
+    "open": "查看详情："
   }
 }

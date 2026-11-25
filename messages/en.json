@@ -146,5 +146,39 @@
     "book": "Book a Session",
     "catalogue": "View My Work Catalogue",
     "statement": "<amber>Working</amber><grey> across different sectors can greatly impact the </grey><green>greatness</green><dark> one can easily achieve after years of innovative contribution to the industry.</dark>"
+  },
+  "partners": {
+    "tag": "PARTNERS–06",
+    "title": "Brands I’ve Wor<worker></worker>ked With.",
+    "intro": "A showcase of the brands, startups, and organizations that have trusted me to help shape their products, enhance their digital presence, and create experiences that drive engagement, growth, and long-term value."
+  },
+  "successStory": {
+    "tag": "SUCCESS STORY–07",
+    "title": "My Impacts and Metrics on Wor<worker></worker>ks.",
+    "intro": "Great design goes beyond aesthetics—it creates measurable value. These metrics highlight the impact of my work across product experiences, user engagement, business objectives, and overall product performance.",
+    "columns": {
+      "project": "Project",
+      "impacts": "Impacts",
+      "metrics": "Metrics",
+      "timeframe": "Timeframe"
+    },
+    "expand": "Expand",
+    "collapse": "Collapse"
+  },
+  "testimonials": {
+    "tag": "TESTIMONIALS–08",
+    "title": "What They Say About My Wor<worker></worker>ks.",
+    "intro": "The true measure of great work lies in the experiences of those who interact with it. Here's what clients, colleagues, and collaborators have to say about working with me and the impact of the solutions we've built together.",
+    "prev": "Previous testimonial",
+    "next": "Next testimonial"
+  },
+  "pricing": {
+    "tag": "PRICING–09",
+    "title": "My Best Affordable <p>Pric<tag></tag>ing</p> Pack<br></br>Curated For Eve<people></people>ryone.",
+    "intro": "Transparent, flexible, and value-driven pricing tailored to help businesses and founders access high-quality product design services that align with their goals and budget.",
+    "description": "Description",
+    "view": "Click to view Description",
+    "book": "Book a Session",
+    "open": "Show details for"
   }
 }

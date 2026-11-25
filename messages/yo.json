@@ -146,5 +146,39 @@
     "book": "Béèrè fún Ìpàdé",
     "catalogue": "Wo Àtòjọ Iṣẹ́ Mi",
     "statement": "<amber>Ṣíṣiṣẹ́</amber><grey> káàkiri àwọn ẹ̀ka iṣẹ́ oríṣiríṣi lè ní ipa ńlá lórí </grey><green>títóbi</green><dark> tí ènìyàn lè ṣàṣeyọrí lẹ́yìn ọdún púpọ̀ ti àfikún tuntun sí iṣẹ́.</dark>"
+  },
+  "partners": {
+    "tag": "ÀWỌN ALÁJỌṢEPỌ̀–06",
+    "title": "Àwọn Ilé-iṣẹ́ Tí Mo Ti Bá Ṣiṣẹ́ <worker></worker>.",
+    "intro": "Àfihàn àwọn ilé-iṣẹ́, àwọn ilé-iṣẹ́ tuntun àti àwọn ẹgbẹ́ tó ti fi ọkàn tán mi láti ran wọ́n lọ́wọ́ láti ṣe àwọn ọjà wọn, mú wíwà wọn lórí íńtánẹ́ẹ̀tì dára síi, àti ṣẹ̀dá àwọn ìrírí tó ń mú ìkópa, ìdàgbàsókè àti iye pípẹ́ wá."
+  },
+  "successStory": {
+    "tag": "ÌTÀN ÀṢEYỌRÍ–07",
+    "title": "Ipa àti Àwọn Ìwọ̀n Iṣẹ́ Mi <worker></worker>.",
+    "intro": "Ìṣẹ̀dá tó dára kọjá ẹwà lásán, ó ń ṣẹ̀dá iye tí a lè wọ̀n. Àwọn ìwọ̀n wọ̀nyí ṣe àfihàn ipa iṣẹ́ mi lórí àwọn ìrírí ọjà, ìkópa àwọn olùlò, àwọn ète iṣẹ́ òwò àti iṣẹ́ ọjà lápapọ̀.",
+    "columns": {
+      "project": "Iṣẹ́ Akànṣe",
+      "impacts": "Àwọn Ipa",
+      "metrics": "Àwọn Ìwọ̀n",
+      "timeframe": "Àkókò"
+    },
+    "expand": "Ṣí",
+    "collapse": "Dé"
+  },
+  "testimonials": {
+    "tag": "ẸRÍ ÀWỌN OLÙLÒ–08",
+    "title": "Ohun Tí Wọ́n Sọ Nípa Iṣẹ́ Mi <worker></worker>.",
+    "intro": "Ìwọ̀n òtítọ́ iṣẹ́ tó dára wà nínú ìrírí àwọn tó ń lò ó. Èyí ni ohun tí àwọn oníbàárà, àwọn alábàáṣiṣẹ́ àti àwọn olùgbìmọ̀pọ̀ sọ nípa ṣíṣiṣẹ́ pẹ̀lú mi àti ipa àwọn ojútùú tí a jọ kọ́.",
+    "prev": "Ẹ̀rí tó ṣáájú",
+    "next": "Ẹ̀rí tó kàn"
+  },
+  "pricing": {
+    "tag": "ÌDÍYELÉ–09",
+    "title": "Àwọn <p>Ìdíyelé</p> <tag></tag> Mi Tó Rọrùn<br></br>Tí A Ṣe Fún Gbogbo Ènìyàn <people></people>.",
+    "intro": "Ìdíyelé tó hàn kedere, tó ṣe é yí padà tó sì dá lórí iye, tí a ṣe láti ran àwọn òwò àti àwọn olùdásílẹ̀ lọ́wọ́ láti rí iṣẹ́ ìṣẹ̀dá ọjà tó dára tó bá àwọn ibi-afẹ́de àti owó wọn mu.",
+    "description": "Àpèjúwe",
+    "view": "Tẹ láti wo àpèjúwe",
+    "book": "Béèrè fún Ìpàdé",
+    "open": "Ṣí àlàyé fún"
   }
 }
